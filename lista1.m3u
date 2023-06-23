@@ -1,10 +1,95 @@
-ista1.m3u#EXTM3U
+#EXTM3U
 
 
 #EXTINF:-1 ,eltrece
 
 https://livetrx01.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 ,Canal 26
+
+https://live-edge01.telecentro.net.ar/live/26hd-720/master.m3u8
+
 #EXTINF:-1 ,CINEAR
 
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/.m3u8
+
+#EXTINF:-1 ,televida
+
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
+
+#EXTINF:-1 ,MUSICTOP
+
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1 ,Información Periodistica
+
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=2800000.m3u8
+
+#EXTINF:-1 ,Net TV
+
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 ,Telemax
+
+https://live-edge01.telecentro.net.ar/live/tlx.smil/chunklist_w1011523517_b1828000_sleng.m3u8
+
+#EXTINF:-1 ,TNT SPORTS CHILE
+
+https://live-media-ctl.warnermediacdn.com/cmaf/live/2028102/estadiochile-cenc/widevine/master.m3u8
+
+#EXTINF:-1 ,VTV PLUS
+
+https://pro.zorrohd8.xyz/live/STafd36fce8dc4452.m3u8
+
+#EXTINF:-1 ,TUDN
+
+https://lib.kepa.pw:30443/edge/ver88ac8ace68d5c17567c2bcfb12948100/chunks.m3u8?nimblesessionid=4797&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIzIDk6MzI6NDkgUE0maGFzaF92YWx1ZT1BR0lhaVVXRDdyaWpMejgxRndUdzN3PT0mdmFsaWRtaW51dGVzPTEyMA==
+
+#EXTINF:-1 ,LA2
+
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+
+#EXTINF: -1, cuatro
+#EXTVLCOPT:http-referrer="mitele"
+https://directos.mitele.es/orilinear21/live/linear21/playlist/playlist.isml/ctv.m3u8?t=1&hdnts=st=1687557243~exp=1687557423~acl=/*~hmac=29a460717445408c5b7040d24ae26dac75c191d7bbc9034b4ff90f8dc12e9f7b
+
+#EXTINF: -1, telecinco
+#EXTVLCOPT:http-referrer="mitele"
+https://directos.mitele.es/orilinear17/live/linear17/playlist/playlist.isml/ctv.m3u8?t=1&hdnts=st=1687557434~exp=1687557614~acl=/*~hmac=525c73d49e73592f09c42ec5333e55b80f55ff77d8304a8ff6cdecebbcf14569
+
+#EXTINF:-1 ,24h
+
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+
+#EXTINF:-1 ,TRECE
+
+https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+
+
+#EXTINF:-1 ,EL TORO TV
+
+https://streaming011.gestec-video.com/hls/eltoro_bal.m3u8
+
+#EXTINF: -1, mtmad-24h
+#EXTVLCOPT:http-referrer="mitele"
+https://directos.mitele.es/orilinear15/live/linear15/main/main.isml/.m3u8?t=1&hdnts=st=1687557646~exp=1687557826~acl=/*~hmac=aea32215b3abba2ebea94dd3fc18b50e5c8a1dec86c19df90943226fae3a8dcc
+
+#EXTINF: -1, boing
+#EXTVLCOPT:http-referrer="mitele"
+https://directos.mitele.es/orilinear23/live/linear23/playlist/playlist.isml/ctv.m3u8?t=1&hdnts=st=1687557646~exp=1687557826~acl=/*~hmac=aea32215b3abba2ebea94dd3fc18b50e5c8a1dec86c19df90943226fae3a8dcc
+
+#EXTINF: -1, divinity
+#EXTVLCOPT:http-referrer="mitele"
+https://directos.mitele.es/orilinear20/live/linear20/playlist/playlist.isml/ctv.m3u8?t=1&hdnts=st=1687557646~exp=1687557826~acl=/*~hmac=aea32215b3abba2ebea94dd3fc18b50e5c8a1dec86c19df90943226fae3a8dcc
+
+#EXTINF: -1, bemad
+#EXTVLCOPT:http-referrer="mitele"
+https://directos.mitele.es/orilinear18/live/linear18/playlist/playlist.isml/ctv.m3u8?t=1&hdnts=st=1687557646~exp=1687557826~acl=/*~hmac=aea32215b3abba2ebea94dd3fc18b50e5c8a1dec86c19df90943226fae3a8dcc
+
+#EXTINF: -1, energy
+#EXTVLCOPT:http-referrer="mitele"
+https://directos.mitele.es/orilinear19/live/linear19/playlist/playlist.isml/ctv.m3u8?t=1&hdnts=st=1687557646~exp=1687557826~acl=/*~hmac=aea32215b3abba2ebea94dd3fc18b50e5c8a1dec86c19df90943226fae3a8dcc
+
+#EXTINF: -1, fdf
+#EXTVLCOPT:http-referrer="mitele"
+https://directos.mitele.es/orilinear22/live/linear22/playlist/playlist.isml/ctv.m3u8?t=1&hdnts=st=1687557646~exp=1687557826~acl=/*~hmac=aea32215b3abba2ebea94dd3fc18b50e5c8a1dec86c19df90943226fae3a8dcc
